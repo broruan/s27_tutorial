@@ -15,7 +15,7 @@
 ```bash
 # 在终端中输入以下命令
 python3 ./temp.py
-#在python中(temp.py)
+#在python中输入命令(temp.py)
 print（ "Hello world, hello PHOENIX"）
 ```
 - 结果截图：
